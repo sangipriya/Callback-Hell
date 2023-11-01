@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(9, 56, 128);
+    height:100px;
+    width:260px;
+    margin:auto;
+    margin-top: 60px;
+    border:2px solid black;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow:2px 2px 2px 2px black ;
+}
+#countdown{
+    color:red;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 5px 5px 5px 5px rgb(78, 145, 161);
+    
+}
+
+body:hover{
+    background-color:darkred;
+}
